@@ -1,0 +1,8 @@
+1.把需要合并的文件放到excel文件夹里
+2.运行start.bat文件
+3.到result下拿到合并完成的excel
+
+备注：
+1.电脑需要预先安装好Nodejs环境哦，下载地址：https://nodejs.org/zh-cn/download/
+2.需要合并excel的字段名得一致哦
+3.正式使用的时候记得先删掉excel文件里的示例文件t1、t2哦
